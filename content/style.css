@@ -1,0 +1,121 @@
+body {
+	margin: auto auto;
+}
+header {
+	width: 100%;
+	background-color:#1e870e;
+	height: 100px;
+}
+header h1 {
+	font-weight:bold;
+	margin: 0 auto;	
+	font-family: arial;
+}
+#h1header {
+	float: left;
+	padding: 30px 10px 10px 20px;
+}
+#logo {
+    height: 100px;
+	float: left;
+}
+nav {
+	width: 100%;
+	font-weight: bold;
+	height:70px;	
+	background-color: #3B8CE3;
+	line-height:50px;
+	margin: auto;
+}
+nav a{
+	color: black;
+	font-style: none;
+	font-size: 17pt;
+	font-family: arial;
+	text-decoration:none;	
+	display:inline-block;
+	width:33%;
+	height:70px;
+	line-height:60px;
+	text-align:center;
+	vertical-align:center;
+	background-color: #3B8CE3;
+}
+nav a:hover {
+	background-color: #8abaed;
+}
+#navcolor  {
+	background-color: #186cc7;
+}
+article {
+		height:700px;
+		width: 100%;
+		background-repeat: no-repeat;
+		background-size: cover;	
+		margin: auto;	
+		text-align: center;
+		padding: 30px 0px 0px 0px;
+}	
+article h1 {
+	margin: 0;
+	font-size: 45px;
+}
+article h2 {
+	font-size: 30px;
+}
+#tablehuidigedag {
+	width: 600px;
+	margin: 0 auto;
+	padding: 30px 0px 30px 0px;
+	border: none;
+	font-size: 30px;
+	border: none;
+}
+#wws {
+	font-weight: bold;
+}
+#icoon {
+	height: 50px;
+	padding: 0px 0px 30px 0px;
+}
+footer {
+		width:100%;
+		background-color: #1e870e;
+		color: white;
+		font-family: arial;
+		height: 80px;
+		margin: auto;
+}
+footer p {
+		font-size: 18px;
+		margin: 0;
+		padding: 20px 10px 0px 10px;
+}
+#dagen {
+	font-weight: bold;
+}
+#bigtable {	
+	width: 1000px;
+	height: 500px;
+	margin-left:auto; 
+    margin-right:auto;
+	font-size: 20px;
+	border-collapse: collapse;
+	border: 2px solid black;
+}	
+#bigtable td {
+		border: 2px solid black;
+}
+
+#vijfdaagse {
+	padding: 100px 0px 100px 0px;
+}
+.left {
+	text-align: left;
+	padding-left: 10px;
+}
+#paasei {
+	float: right;
+	text-decoration: none;
+	color: #1e870e;
+}
